@@ -1,0 +1,7 @@
+C:\Users\jaom2\Documents\C# Course - Ultimate Guide\bank_console_project\bank_console_project\bin\Debug\bank_console_project.exe.config
+C:\Users\jaom2\Documents\C# Course - Ultimate Guide\bank_console_project\bank_console_project\bin\Debug\bank_console_project.exe
+C:\Users\jaom2\Documents\C# Course - Ultimate Guide\bank_console_project\bank_console_project\bin\Debug\bank_console_project.pdb
+C:\Users\jaom2\Documents\C# Course - Ultimate Guide\bank_console_project\bank_console_project\obj\Debug\bank_console_project.csproj.AssemblyReference.cache
+C:\Users\jaom2\Documents\C# Course - Ultimate Guide\bank_console_project\bank_console_project\obj\Debug\bank_console_project.csproj.CoreCompileInputs.cache
+C:\Users\jaom2\Documents\C# Course - Ultimate Guide\bank_console_project\bank_console_project\obj\Debug\bank_console_project.exe
+C:\Users\jaom2\Documents\C# Course - Ultimate Guide\bank_console_project\bank_console_project\obj\Debug\bank_console_project.pdb
